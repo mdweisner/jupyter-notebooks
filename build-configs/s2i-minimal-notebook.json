@@ -144,7 +144,7 @@
                 "strategy": {
                     "type": "Docker",
                     "dockerStrategy": {
-                        "dockerfilePath": "Dockerfile-py38"
+                        "dockerfilePath": "Dockerfile"
                     }
                 },
                 "output": {
