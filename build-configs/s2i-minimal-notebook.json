@@ -119,7 +119,7 @@
             "kind": "BuildConfig",
             "apiVersion": "build.openshift.io/v1",
             "metadata": {
-                "name": "s2i-minimal-notebook-py36",
+                "name": "s2i-minimal-notebook-py38",
                 "labels": {
                     "build": "s2i-minimal-notebook"
                 }
