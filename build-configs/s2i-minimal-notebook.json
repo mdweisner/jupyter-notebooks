@@ -113,7 +113,8 @@
                         "memory": "1Gi"
                     }
                 }
-            },
+            }
+        },
         {
             "kind": "BuildConfig",
             "apiVersion": "build.openshift.io/v1",
@@ -165,3 +166,4 @@
         }
     ]
 }
+
